@@ -1,0 +1,7 @@
+vllm==0.5.1
+transformers==4.44.0
+torch==2.3.0
+deepspeed==0.14.4
+datasets==2.20.0
+accelerate==0.31.0
+tensorboardX==2.6.2.2
